@@ -1,2 +1,2 @@
 # git-conflict-challenge
-J'écris en local
+J'écris sur GitHub
